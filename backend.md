@@ -16,8 +16,8 @@
 </p>
 
 
-<a href="https://pequesoft.net/">
-<img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/master/img/pequesoft.png"/>
+<a href="">
+<img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/pequesoft.png"/>
 </a>
 
 
@@ -36,10 +36,10 @@
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/victor-juan-gonzalez-ab887a15b/" target="blank">
-<img align="center" width="30px" alt="LinkedIn de Victor" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/img/linkedin-icon.svg?raw=true"/></a> &nbsp; &nbsp;
+<img align="center" width="30px" alt="LinkedIn de Victor" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/img/linkedin-icon.svg?raw=true"/></a> &nbsp; &nbsp;
 
 </p>
 
 
-<div align="center"><em><a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/tree/master/ReadmeGenerator">* Este README fue generado automáticamente. Haz clic aquí para ver cómo se hizo</a></em></div>
+<div align="center"><em><a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/tree/main/ReadmeGenerator">* Este README fue generado automáticamente. Haz clic aquí para ver cómo se hizo</a></em></div>
 

@@ -24,7 +24,7 @@
       "title": "Proyectos por Categoría 📂",
       "count": 99,
       "showEmojis": true,
-      "showScore": false,
+      "showScore": true,
       "ignore_pinned": false
     }
   },

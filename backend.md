@@ -17,7 +17,7 @@
 
 
 <a href="">
-<img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/>
+<img align="right" height="auto" width="200" style="z-index: 1; position: relative;" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/>
 </a>
 
 

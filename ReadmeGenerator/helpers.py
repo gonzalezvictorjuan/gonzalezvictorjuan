@@ -43,7 +43,7 @@ def get_categories(_, context):
     """
     categories = []
     for category in context["categories"]:
-        link = f'https://github.com/{context["github_user"]}/{context["github_user"]}/blob/master/{category["tag"]}.md'
+        link = f'https://github.com/{context["github_user"]}/{context["github_user"]}/blob/main/{category["tag"]}.md'
         template = f"<a href=\"{link}\">{category['emoji']}</a>"
         categories.append(template)
 

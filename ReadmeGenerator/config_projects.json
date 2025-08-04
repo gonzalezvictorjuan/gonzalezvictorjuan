@@ -1,0 +1,56 @@
+[
+  {
+    "type": "intro",
+    "data": "Victor Gonzalez - Proyectos por Categoría 🧭"
+  },
+  {
+    "type": "description",
+    "data": "`El código es como la magia, pero funciona.`<br><em>Soy un desarrollador Web Full Stack orientado a JavaScript. Mi enfoque es técnico y minimalista: construir soluciones claras, eficientes y bien estructuradas. Apasionado por el aprendizaje continuo, la automatización y el diseño funcional.</em>"
+  },
+  {
+    "type": "categories",
+    "data": {}
+  },
+  {
+    "type": "rightImage",
+    "data": {
+      "image": "https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/master/img/pequesoft.png",
+      "link": "https://pequesoft.net/"
+    }
+  },
+  {
+    "type": "awesomeProjects",
+    "data": {
+      "title": "Proyectos por Categoría 📂",
+      "count": 99,
+      "showEmojis": true,
+      "showScore": false,
+      "ignore_pinned": false
+    }
+  },
+  {
+    "type": "space",
+    "data": {}
+  },
+  {
+    "type": "space",
+    "data": {}
+  },
+  {
+    "type": "social",
+    "data": {
+      "title": "@<div align=\"center\">\n<h3 align=\"center\">Conectemos 🔗</h3>\n</div>",
+      "social": [
+        {
+          "alt": "LinkedIn de Victor",
+          "url": "https://www.linkedin.com/in/victor-juan-gonzalez-ab887a15b/",
+          "image": "https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/img/linkedin-icon.svg?raw=true"
+        }
+      ]
+    }
+  },
+  {
+    "type": "extra",
+    "data": "<div align=\"center\"><em><a href=\"https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/tree/master/ReadmeGenerator\">* Este README fue generado automáticamente. Haz clic aquí para ver cómo se hizo</a></em></div>"
+  }
+]

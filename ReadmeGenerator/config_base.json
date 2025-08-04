@@ -1,0 +1,94 @@
+[
+  {
+    "type": "config",
+    "data": {
+      "githubUser": "gonzalezvictorjuan",
+      "categories": [
+        { "name": "Frontend", "emoji": "🧙‍♂️", "tag": "frontend" },
+        { "name": "Backend", "emoji": "💻", "tag": "backend" },
+        { "name": "Full Stack JS", "emoji": "🌐", "tag": "fullstack" },
+        { "name": "Web3", "emoji": "🔗", "tag": "web3" },
+        { "name": "DevOps", "emoji": "🐧", "tag": "devops" },
+        { "name": "Open Source", "emoji": "📖", "tag": "oss" },
+        { "name": "Testing", "emoji": "🧪", "tag": "test" },
+        { "name": "Educación", "emoji": "🧑🏼‍🏫", "tag": "edu" }
+      ]
+    }
+  },
+  {
+    "type": "intro",
+    "data": "Hola, soy Victor Gonzalez 👋"
+  },
+  {
+    "type": "description",
+    "data": "`El código es como la magia, pero funciona.`<br><em>Desarrollador Web Full Stack especializado en JavaScript. Me enfoco en crear soluciones profesionales, técnicas y minimalistas que resuelvan problemas reales. Siempre buscando mejorar, automatizar y construir.</em>"
+  },
+  {
+    "type": "categories",
+    "data": {}
+  },
+  {
+    "type": "rightImage",
+    "data": {
+      "image": "https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/master/img/pequesoft.png",
+      "link": "https://pequesoft.net/"
+    }
+  },
+  {
+    "type": "techStack",
+    "data": {
+      "title": "Tech Stack ⚙️",
+      "tech": [
+        "HTML5 / CSS3 / Sass / Tailwind",
+        "JavaScript (ES6+)",
+        "NestJS",
+        "Node.js / Express",
+        "React / Next.js",
+        "MongoDB / PostgreSQL",
+        "Git & GitHub",
+        "Linux (WSL / Ubuntu)",
+        "Docker",
+        "Pruebas (Jest / Vitest / Playwright)",
+        "CI/CD en GitHub Actions"
+      ]
+    }
+  },
+  {
+    "type": "extra",
+    "data": {
+      "title": "Actualmente 📍",
+      "data": "📌 Viviendo en Tandil, Buenos Aires, Argentina<br>🎯 Buscando oportunidades freelance y equipos con visión de producto"
+    }
+  },
+  {
+    "type": "awesomeProjects",
+    "data": {
+      "title": "Proyectos Destacados 🚀",
+      "count": 6,
+      "showEmojis": true,
+      "showScore": false,
+      "ignore_pinned": false
+    }
+  },
+  {
+    "type": "space",
+    "data": {}
+  },
+  {
+    "type": "social",
+    "data": {
+      "title": "@<div align=\"center\">\n<h3 align=\"center\">¡Conectemos! 🔗</h3>\n</div>",
+      "social": [
+        {
+          "alt": "Victor en LinkedIn",
+          "url": "https://www.linkedin.com/in/victor-juan-gonzalez-ab887a15b/",
+          "image": "https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/img/linkedin-icon.svg?raw=true"
+        }
+      ]
+    }
+  },
+  {
+    "type": "extra",
+    "data": "<div align=\"center\"><em><a href=\"https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/tree/master/ReadmeGenerator\">* Este README fue generado automáticamente. Haz clic aquí para ver cómo se hizo</a></em></div>"
+  }
+]

@@ -46,15 +46,15 @@ jobs:
           git config --global --add safe.directory /github/workspace
 
       # Upload static files to master
-      - name: Force push to master
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-          directory: ./
+      # - name: Force push to master
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: master
+      #     force: true
+      #     directory: ./
           
-          # Upload static files to master
+      # Upload static files to main
       - name: Force push to main
         uses: ad-m/github-push-action@master
         with:

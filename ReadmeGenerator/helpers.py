@@ -56,7 +56,7 @@ def right_image(data, _):
     """
     Generate the right image section of the README.
     """
-    properties = 'align="right" height="auto" width="200"'
+    properties = 'align="right" height="auto" width="200" style="z-index: 1; position: relative;"'
     return (
         f'<a href="{data["link"]}">\n<img {properties} src="{data["image"]}"/>\n</a>\n'
     )

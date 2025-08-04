@@ -5,14 +5,14 @@
 
 
 <p align="center">
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/frontend.md">🧙‍♂️</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/backend.md">💻</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/fullstack.md">🌐</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/web3.md">🔗</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/devops.md">🐧</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/oss.md">📖</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/test.md">🧪</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/master/edu.md">🧑🏼‍🏫</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/frontend.md">🧙‍♂️</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/backend.md">💻</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/fullstack.md">🌐</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/web3.md">🔗</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/devops.md">🐧</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/oss.md">📖</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/test.md">🧪</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/edu.md">🧑🏼‍🏫</a>
 </p>
 
 

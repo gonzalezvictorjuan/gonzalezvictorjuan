@@ -42,7 +42,7 @@ jobs:
           git add -A
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m 'deploy' 
+          git commit -m 'deploy' || true
           git config --global --add safe.directory /github/workspace
 
       # Upload static files to master

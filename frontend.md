@@ -8,16 +8,13 @@
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/frontend.md">🧙‍♂️</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/backend.md">💻</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/fullstack.md">🌐</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/web3.md">🔗</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/devops.md">🐧</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/oss.md">📖</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/test.md">🧪</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/edu.md">🧑🏼‍🏫</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/test.md">🧪</a>
 </p>
 
 
 <a href="">
-<img align="right" height="auto" width="200" style="z-index: 1; position: relative;" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/>
 </a>
 
 

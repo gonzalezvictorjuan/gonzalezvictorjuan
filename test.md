@@ -8,25 +8,22 @@
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/frontend.md">🧙‍♂️</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/backend.md">💻</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/fullstack.md">🌐</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/web3.md">🔗</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/devops.md">🐧</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/oss.md">📖</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/test.md">🧪</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/edu.md">🧑🏼‍🏫</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/test.md">🧪</a>
 </p>
 
 
 <a href="">
-<img align="right" height="auto" width="200" style="z-index: 1; position: relative;" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/>
 </a>
 
 
 ## Proyectos por Categoría 📂
-- [Test pages actions  🧪](https://github.com/gonzalezvictorjuan/test-pages-actions) 
-- [Test_git  🧪](https://github.com/gonzalezvictorjuan/test_git) 
-- [Testtest  🧪](https://github.com/gonzalezvictorjuan/testtest) 
-- [Test  🧪](https://github.com/gonzalezvictorjuan/Test) 
-- [Testgeneral  🧪](https://github.com/gonzalezvictorjuan/TestGeneral) 
+- [Test pages actions 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/test-pages-actions) 
+- [Test_git 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/test_git) 
+- [Testtest 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/testtest) 
+- [Test 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/Test) 
+- [Testgeneral 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/TestGeneral) 
 
 
 

@@ -21,22 +21,41 @@ data = json.loads(f.read())
 readme_file = ""
 context = {}
 
-for block in data:
-    if block["type"] == "config":
-        github_user = block["data"]["githubUser"]
-        categories = block["data"]["categories"]
-        context = set_config(github_user, categories)
-        continue
+# for block in data:
+#     if block["type"] == "config":
+#         github_user = block["data"]["githubUser"]
+#         categories = block["data"]["categories"]
+#         context = set_config(github_user, categories)
+#         continue
 
-    readme_file += types[block["type"]](block["data"], context)
-    readme_file += "\n\n"
+#     readme_file += types[block["type"]](block["data"], context)
+#     readme_file += "\n\n"
+
+# f = open(f"{FILEPATH}README.md", "w", errors="ignore", encoding="utf-8")
+# f.write(readme_file)
+# f.close()
+
+# f = open(FILENAME_PROJECTS, "r", errors="ignore", encoding="utf-8")
+# data = json.loads(f.read())
+
+output = ""
+right_image_block = None
+
+for i, block in enumerate(data):
+    if block["type"] == "rightImage":
+        right_image_block = block
+        continue
+    if block["type"] == "intro":
+        output += types[block["type"]](block["data"], context)
+        # Insert rightImage immediately after intro
+        if right_image_block:
+            output += types["rightImage"](right_image_block["data"], context)
+    else:
+        output += types[block["type"]](block["data"], context)
 
 f = open(f"{FILEPATH}README.md", "w", errors="ignore", encoding="utf-8")
-f.write(readme_file)
+f.write(output)
 f.close()
-
-f = open(FILENAME_PROJECTS, "r", errors="ignore", encoding="utf-8")
-data = json.loads(f.read())
 
 for category in categories:
     current_file = ""

@@ -13,11 +13,6 @@
 </p>
 
 
-<a href="">
-<img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/>
-</a>
-
-
 ## Tech Stack ⚙️
 - HTML5 / CSS3 / Sass / Tailwind
 - JavaScript (ES6+)

@@ -62,7 +62,7 @@ def right_image(data, _):
             f'<a href="{data["link"]}">\n<img {properties} src="{data["image"]}"/>\n</a>\n'
         )
     else:
-        return f'<img {properties} src="{data["image"]}"/>\n'
+        return f'<div align="right"><img {properties} src="{data["image"]}"/></div>\n'
 
 
 def tech_stack(data, context):

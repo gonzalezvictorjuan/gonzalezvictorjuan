@@ -13,10 +13,9 @@
 </p>
 
 
+## Tech Stack ⚙️
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
-
-## Tech Stack ⚙️
 - HTML5 / CSS3 / Sass / Tailwind
 - JavaScript (ES6+)
 - NestJS

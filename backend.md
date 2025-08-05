@@ -13,10 +13,9 @@
 </p>
 
 
+## Proyectos por Categoría 📂
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
-
-## Proyectos por Categoría 📂
 - [Fullstack connection basics 🌿0 ⭐0 💻 🌐](https://github.com/gonzalezvictorjuan/fullstack-connection-basics) 
 - [Backendnestjs 🌿0 ⭐0 💻](https://github.com/gonzalezvictorjuan/BackendNestJS) 
 

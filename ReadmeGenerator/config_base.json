@@ -53,6 +53,13 @@
   {
     "type": "extra",
     "data": {
+      "title": "Lenguajes más usados 🧑‍💻",
+      "data": "<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&layout=compact&theme=radical\" alt=\"Top Langs\" />\n</div>"
+    }
+  },
+  {
+    "type": "extra",
+    "data": {
       "title": "Actualmente 📍",
       "data": "📌 Viviendo en Tandil, Buenos Aires, Argentina<br>🎯 Buscando oportunidades freelance y equipos con visión de producto"
     }

@@ -32,6 +32,12 @@
 - CI/CD en GitHub Actions
 
 
+## Lenguajes más usados 🧑‍💻
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+
 ## Actualmente 📍
 📌 Viviendo en Tandil, Buenos Aires, Argentina<br>🎯 Buscando oportunidades freelance y equipos con visión de producto
 

@@ -63,13 +63,20 @@
       "title": "Proyectos Destacados 🚀",
       "count": 6,
       "showEmojis": true,
-      "showScore": true,
+      "showScore": false,
       "ignore_pinned": false
     }
   },
   {
     "type": "space",
     "data": {}
+  },
+  {
+    "type": "extra",
+    "data": {
+      "title": "Estadísticas de GitHub 📊",
+      "data": "<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=gonzalezvictorjuan&show_icons=true&theme=radical\" alt=\"GitHub Stats\" />\n</div>"
+    }
   },
   {
     "type": "social",

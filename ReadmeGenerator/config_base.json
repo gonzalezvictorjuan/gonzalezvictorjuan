@@ -7,11 +7,8 @@
         { "name": "Frontend", "emoji": "🧙‍♂️", "tag": "frontend" },
         { "name": "Backend", "emoji": "💻", "tag": "backend" },
         { "name": "Full Stack JS", "emoji": "🌐", "tag": "fullstack" },
-        { "name": "Web3", "emoji": "🔗", "tag": "web3" },
-        { "name": "DevOps", "emoji": "🐧", "tag": "devops" },
-        { "name": "Open Source", "emoji": "📖", "tag": "oss" },
-        { "name": "Testing", "emoji": "🧪", "tag": "test" },
-        { "name": "Educación", "emoji": "🧑🏼‍🏫", "tag": "edu" }
+        { "name": "Educación", "emoji": "🧑🏼‍🏫", "tag": "edu" },
+        { "name": "Testing", "emoji": "🧪", "tag": "test" }
       ]
     }
   },
@@ -66,7 +63,7 @@
       "title": "Proyectos Destacados 🚀",
       "count": 6,
       "showEmojis": true,
-      "showScore": false,
+      "showScore": true,
       "ignore_pinned": false
     }
   },

@@ -57,9 +57,12 @@ def right_image(data, _):
     Generate the right image section of the README.
     """
     properties = 'align="right" height="auto" width="200"'
-    return (
-        f'<a href="{data["link"]}">\n<img {properties} src="{data["image"]}"/>\n</a>\n'
-    )
+    if data.get("link"):
+        return (
+            f'<a href="{data["link"]}">\n<img {properties} src="{data["image"]}"/>\n</a>\n'
+        )
+    else:
+        return f'<img {properties} src="{data["image"]}"/>\n'
 
 
 def tech_stack(data, context):

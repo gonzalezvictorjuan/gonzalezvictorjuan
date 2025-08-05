@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/frontend.md">🧙‍♂️</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/backend.md">💻</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/fullstack.md">🌐</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/backend.md">🤖</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/fullstack.md">🌎</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/edu.md">🧑🏼‍🏫</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/test.md">🧪</a>
 </p>

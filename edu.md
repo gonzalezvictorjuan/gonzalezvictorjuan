@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/frontend.md">🧙‍♂️</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/backend.md">💻</a>
-<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/fullstack.md">🌐</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/backend.md">🤖</a>
+<a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/fullstack.md">🌎</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/edu.md">🧑🏼‍🏫</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/test.md">🧪</a>
 </p>
@@ -16,7 +16,7 @@
 ## Proyectos por Categoría 📂
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
-- [Curso utn 999198241 🌿0 ⭐0 🌐 🧑🏼‍🏫](https://github.com/gonzalezvictorjuan/Curso-UTN-999198241) 
+- [Curso utn 999198241 🌿0 ⭐0 🌎 🧑🏼‍🏫](https://github.com/gonzalezvictorjuan/Curso-UTN-999198241) 
 
 
 

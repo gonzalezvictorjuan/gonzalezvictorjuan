@@ -37,16 +37,22 @@
 
 
 ## Proyectos Destacados 🚀
-- [Fullstack connection basics 🌿0 ⭐0 💻 🌐](https://github.com/gonzalezvictorjuan/fullstack-connection-basics) 
-- [Backendnestjs 🌿0 ⭐0 💻](https://github.com/gonzalezvictorjuan/BackendNestJS) 
-- [Curso utn 999198241 🌿0 ⭐0 🌐 🧑🏼‍🏫](https://github.com/gonzalezvictorjuan/Curso-UTN-999198241) 
-- [Test pages actions 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/test-pages-actions) 
-- [Test_git 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/test_git) 
-- [Testtest 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/testtest) 
+- [Fullstack connection basics  💻 🌐](https://github.com/gonzalezvictorjuan/fullstack-connection-basics) 
+- [Backendnestjs  💻](https://github.com/gonzalezvictorjuan/BackendNestJS) 
+- [Curso utn 999198241  🌐 🧑🏼‍🏫](https://github.com/gonzalezvictorjuan/Curso-UTN-999198241) 
+- [Test pages actions  🧪](https://github.com/gonzalezvictorjuan/test-pages-actions) 
+- [Test_git  🧪](https://github.com/gonzalezvictorjuan/test_git) 
+- [Testtest  🧪](https://github.com/gonzalezvictorjuan/testtest) 
 
 
 
 <br>
+
+## Estadísticas de GitHub 📊
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gonzalezvictorjuan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
 
 <div align="center">
 <h3 align="center">¡Conectemos! 🔗</h3>

@@ -92,7 +92,7 @@ def awesome_projects(data, context):
     Generate the awesome projects section of the README.
     Supports 'rightImage' as a child element.
     """
- title = process_title(data["title"], context)
+    title = process_title(data["title"], context)
     children_output = render_children(data, context)
 
     projects = context["projects"].copy()

@@ -5,8 +5,8 @@
       "githubUser": "gonzalezvictorjuan",
       "categories": [
         { "name": "Frontend", "emoji": "🧙‍♂️", "tag": "frontend" },
-        { "name": "Backend", "emoji": "💻", "tag": "backend" },
-        { "name": "Full Stack JS", "emoji": "🌐", "tag": "fullstack" },
+        { "name": "Backend", "emoji": "🤖", "tag": "backend" },
+        { "name": "Full Stack JS", "emoji": "🌎", "tag": "fullstack" },
         { "name": "Educación", "emoji": "🧑🏼‍🏫", "tag": "edu" },
         { "name": "Testing", "emoji": "🧪", "tag": "test" }
       ]
@@ -29,17 +29,17 @@
     "data": {
       "title": "Tech Stack ⚙️",
       "tech": [
-        "HTML5 / CSS3 / Sass / Tailwind",
-        "JavaScript (ES6+)",
-        "NestJS",
-        "Node.js / Express",
-        "React / Next.js",
-        "MongoDB / PostgreSQL",
-        "Git & GitHub",
-        "Linux (WSL / Ubuntu)",
-        "Docker",
-        "Pruebas (Jest / Vitest / Playwright)",
-        "CI/CD en GitHub Actions"
+        "🎨 HTML5 / CSS3 / Sass / Tailwind",
+        "🟨 JavaScript (ES6+)",
+        "🧱 NestJS",
+        "🖧 Node.js / Express",
+        "⚛️ React / Next.js",
+        "🗄️ MongoDB / PostgreSQL",
+        "🔧 Git & GitHub",
+        "🐧 Linux (WSL / Ubuntu)",
+        "🐳 Docker",
+        "🧪 Pruebas (Jest / Vitest / Playwright)",
+        "🚀 CI/CD en GitHub Actions"
       ],
       "children": [
         {

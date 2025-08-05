@@ -71,6 +71,8 @@ for category in categories:
         x for x in context["projects"] if category["tag"] in x["tags"]
     ]
     for block in data:
+        if block["type"] == "config":
+            continue
         current_file += types[block["type"]](block["data"], temp_context)
         current_file += "\n\n"
 

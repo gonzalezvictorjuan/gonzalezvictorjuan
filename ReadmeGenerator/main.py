@@ -42,6 +42,11 @@ output = ""
 right_image_block = None
 
 for i, block in enumerate(data):
+    if block["type"] == "config":
+        github_user = block["data"]["githubUser"]
+        categories = block["data"]["categories"]
+        context = set_config(github_user, categories)
+        continue
     if block["type"] == "rightImage":
         right_image_block = block
         continue

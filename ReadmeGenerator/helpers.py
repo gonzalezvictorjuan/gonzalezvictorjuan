@@ -7,6 +7,17 @@ try:
 except ImportError:
     from .scraper import get_projects, get_youtube_data, get_pinned
 
+def render_children(data, context, allowed_types=["rightImage"]):
+    """
+    Renderiza los children que estén dentro del bloque si están en allowed_types.
+    Actualmente solo soporta 'rightImage'.
+    """
+    children_output = ""
+    if "children" in data:
+        for child in data["children"]:
+            if child["type"] in allowed_types:
+                children_output += types[child["type"]](child["data"], context) + "\n"
+    return children_output
 
 def process_title(title, context):
     """
@@ -70,15 +81,20 @@ def tech_stack(data, context):
     Generate the tech stack section of the README.
     """
     title = process_title(data["title"], context)
+    children_output = render_children(data, context)
     tech = "- " + "\n- ".join(data["tech"])
-    return f"{title}\n{tech}\n"
+    return f"{title}\n{children_output}{tech}\n"
+
 
 
 def awesome_projects(data, context):
     """
     Generate the awesome projects section of the README.
+    Supports 'rightImage' as a child element.
     """
-    title = process_title(data["title"], context)
+ title = process_title(data["title"], context)
+    children_output = render_children(data, context)
+
     projects = context["projects"].copy()
     pinned_projects = []
 
@@ -88,36 +104,29 @@ def awesome_projects(data, context):
             link = project["link"]
             if any([pinned_project in link for pinned_project in pinned_projects]):
                 projects.remove(project)
-                continue
 
-    data_count = int(data["count"])
-    len_projects = len(projects)
-
-    count = data_count if data_count <= len_projects else len_projects
-
+    count = min(int(data["count"]), len(projects))
     projects_data = ""
 
     for i in range(count):
         project = projects[i]
-        link = project["link"]
-        url = f"https://github.com{link}"
+        url = f"https://github.com{project['link']}"
 
-        emojis = ""
-        if data["showEmojis"]:
-            emojis = " ".join(
-                [context["categories_emoji"][tag] for tag in project["tags"]]
-            )
+        emojis = (
+            " ".join([context["categories_emoji"][tag] for tag in project["tags"]])
+            if data["showEmojis"]
+            else ""
+        )
 
-        score = ""
-        if data["showScore"]:
-            forks = project.get("members", 0)
-            stars = project.get("stargazers", 0)
-            score = f"🌿{forks} ⭐{stars}"
+        score = (
+            f"🌿{project.get('members', 0)} ⭐{project.get('stargazers', 0)}"
+            if data["showScore"]
+            else ""
+        )
 
         projects_data += f'- [{project["name"]} {score} {emojis}]({url}) \n'
 
-    return f"{title}\n{projects_data}\n"
-
+    return f"{title}\n{children_output}{projects_data}\n"
 
 def extra(data, context):
     """

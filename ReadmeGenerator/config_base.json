@@ -25,13 +25,6 @@
     "data": {}
   },
   {
-    "type": "rightImage",
-    "data": {
-      "image": "https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png",
-      "link": ""
-    }
-  },
-  {
     "type": "techStack",
     "data": {
       "title": "Tech Stack ⚙️",
@@ -47,6 +40,15 @@
         "Docker",
         "Pruebas (Jest / Vitest / Playwright)",
         "CI/CD en GitHub Actions"
+      ],
+      "children": [
+        {
+          "type": "rightImage",
+          "data": {
+            "image": "https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png",
+            "link": ""
+          }
+        }
       ]
     }
   },

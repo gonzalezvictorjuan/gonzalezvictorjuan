@@ -12,20 +12,22 @@
     "data": {}
   },
   {
-    "type": "rightImage",
-    "data": {
-      "image": "https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png",
-      "link": ""
-    }
-  },
-  {
     "type": "awesomeProjects",
     "data": {
       "title": "Proyectos por Categoría 📂",
       "count": 99,
       "showEmojis": true,
       "showScore": true,
-      "ignore_pinned": false
+      "ignore_pinned": false,
+      "children": [
+        {
+          "type": "rightImage",
+          "data": {
+            "image": "https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png",
+            "link": ""
+          }
+        }
+      ]
     }
   },
   {

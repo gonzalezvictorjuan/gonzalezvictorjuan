@@ -4,6 +4,10 @@
 `El código es como la magia, pero funciona.`<br><em>Desarrollador Web Full Stack especializado en JavaScript. Me enfoco en crear soluciones profesionales, técnicas y minimalistas que resuelvan problemas reales. Siempre buscando mejorar, automatizar y construir.</em>
 
 
+## Actualmente 📍
+📌 Viviendo en Tandil, Buenos Aires, Argentina<br>🎯 Buscando oportunidades freelance y equipos con visión de producto
+
+
 <p align="center">
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/frontend.md">🧙‍♂️</a>
 <a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/backend.md">🤖</a>
@@ -35,17 +39,13 @@
 </div>
 
 
-## Actualmente 📍
-📌 Viviendo en Tandil, Buenos Aires, Argentina<br>🎯 Buscando oportunidades freelance y equipos con visión de producto
-
-
 ## Proyectos Destacados 🚀
-- [Fullstack connection basics  🤖 🌎](https://github.com/gonzalezvictorjuan/fullstack-connection-basics) 
+- [Pokemonvue  🧙‍♂️](https://github.com/gonzalezvictorjuan/PokemonVue) 
+- [Fullstack connection basics  🤖 🌎 🧑🏼‍🏫](https://github.com/gonzalezvictorjuan/fullstack-connection-basics) 
 - [Backendnestjs  🤖](https://github.com/gonzalezvictorjuan/BackendNestJS) 
 - [Curso utn 999198241  🌎 🧑🏼‍🏫](https://github.com/gonzalezvictorjuan/Curso-UTN-999198241) 
 - [Test pages actions  🧪](https://github.com/gonzalezvictorjuan/test-pages-actions) 
-- [Test_git  🧪](https://github.com/gonzalezvictorjuan/test_git) 
-- [Testtest  🧪](https://github.com/gonzalezvictorjuan/testtest) 
+- [Testgeneral  🧪](https://github.com/gonzalezvictorjuan/TestGeneral) 
 
 
 

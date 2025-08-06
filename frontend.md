@@ -16,6 +16,7 @@
 ## Proyectos por Categoría 📂
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
+- [Pokemonvue 🌿0 ⭐0 🧙‍♂️](https://github.com/gonzalezvictorjuan/PokemonVue) 
 
 
 

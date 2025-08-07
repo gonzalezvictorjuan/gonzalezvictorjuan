@@ -60,13 +60,6 @@
     }
   },
   {
-    "type": "extra",
-    "data": {
-      "title": "Lenguajes más usados 🧑‍💻",
-      "data": "<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&layout=compact&theme=radical\" alt=\"Top Langs\" />\n</div>"
-    }
-  },
-  {
     "type": "awesomeProjects",
     "data": {
       "title": "Proyectos Destacados 🚀",
@@ -84,7 +77,7 @@
     "type": "extra",
     "data": {
       "title": "Estadísticas de GitHub 📊",
-      "data": "<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=gonzalezvictorjuan&show_icons=true&theme=radical\" alt=\"GitHub Stats\" />\n</div>"
+      "data": "<div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=gonzalezvictorjuan&show_icons=true&theme=radical\" alt=\"GitHub Stats\" />\n</div><div align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&layout=compact&theme=radical\" alt=\"Top Langs\" />\n</div>"
     }
   },
   {

@@ -90,7 +90,7 @@ def tech_stack(data, context):
 def awesome_projects(data, context):
     """
     Generate the awesome projects section of the README.
-    Supports 'rightImage' as a child element.
+    Now uses Vercel cards for each project.
     """
     title = process_title(data["title"], context)
     children_output = render_children(data, context)
@@ -100,7 +100,7 @@ def awesome_projects(data, context):
 
     if data["ignore_pinned"]:
         pinned_projects = context["pinned_projects"]
-        for project in projects:
+        for project in projects[:]:  # iterate over a copy to avoid issues
             link = project["link"]
             if any([pinned_project in link for pinned_project in pinned_projects]):
                 projects.remove(project)
@@ -108,23 +108,15 @@ def awesome_projects(data, context):
     count = min(int(data["count"]), len(projects))
     projects_data = ""
 
+    github_user = context["github_user"]
+
     for i in range(count):
         project = projects[i]
-        url = f"https://github.com{project['link']}"
+        repo_name = project["name"]
+        repo_url = f"https://github.com{project['link']}"
+        card_url = f"https://github-readme-stats.vercel.app/api/pin/?username={github_user}&repo={repo_name}"
 
-        emojis = (
-            " ".join([context["categories_emoji"][tag] for tag in project["tags"]])
-            if data["showEmojis"]
-            else ""
-        )
-
-        score = (
-            f"🌿{project.get('members', 0)} ⭐{project.get('stargazers', 0)}"
-            if data["showScore"]
-            else ""
-        )
-
-        projects_data += f'- [{project["name"]} {score} {emojis}]({url}) \n'
+        projects_data += f'[![Readme Card]({card_url})]({repo_url})\n'
 
     return f"{title}\n{children_output}{projects_data}\n"
 

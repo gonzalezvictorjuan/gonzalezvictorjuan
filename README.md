@@ -45,7 +45,7 @@
 <br>
 
 ## Estadísticas de GitHub 📊
-< align="center">
+<align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gonzalezvictorjuan&show_icons=true&theme=radical" alt="GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 

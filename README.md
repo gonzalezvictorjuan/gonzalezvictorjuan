@@ -33,19 +33,12 @@
 - 🚀 CI/CD en GitHub Actions
 
 
-## Lenguajes más usados 🧑‍💻
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
-
 ## Proyectos Destacados 🚀
 - [Pokemonvue  🧙‍♂️](https://github.com/gonzalezvictorjuan/PokemonVue) 
 - [Fullstack connection basics  🤖 🌎 🧑🏼‍🏫](https://github.com/gonzalezvictorjuan/fullstack-connection-basics) 
 - [Backendnestjs  🤖](https://github.com/gonzalezvictorjuan/BackendNestJS) 
 - [Curso utn 999198241  🌎 🧑🏼‍🏫](https://github.com/gonzalezvictorjuan/Curso-UTN-999198241) 
 - [Test pages actions  🧪](https://github.com/gonzalezvictorjuan/test-pages-actions) 
-- [Testgeneral  🧪](https://github.com/gonzalezvictorjuan/TestGeneral) 
 
 
 
@@ -54,6 +47,8 @@
 ## Estadísticas de GitHub 📊
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gonzalezvictorjuan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div><div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 

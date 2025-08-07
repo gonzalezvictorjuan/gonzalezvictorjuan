@@ -17,7 +17,6 @@
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
 - [Test pages actions 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/test-pages-actions) 
-- [Testgeneral 🌿0 ⭐0 🧪](https://github.com/gonzalezvictorjuan/TestGeneral) 
 
 
 

@@ -16,8 +16,8 @@
 ## Proyectos por Categoría 📂
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
-- [Fullstack connection basics 🌿0 ⭐0 🤖 🌎 🧑🏼‍🏫](https://github.com/gonzalezvictorjuan/fullstack-connection-basics) 
-- [Backendnestjs 🌿0 ⭐0 🤖](https://github.com/gonzalezvictorjuan/BackendNestJS) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Fullstack connection basics)](https://github.com/gonzalezvictorjuan/fullstack-connection-basics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Backendnestjs)](https://github.com/gonzalezvictorjuan/BackendNestJS)
 
 
 

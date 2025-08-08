@@ -17,9 +17,7 @@
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Fullstack-connection-basics)](https://github.com/gonzalezvictorjuan/fullstack-connection-basics)
-`backend` `fullstack` `edu`
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Curso-utn-999198241)](https://github.com/gonzalezvictorjuan/Curso-UTN-999198241)
-`fullstack` `edu`
 
 
 

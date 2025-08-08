@@ -17,7 +17,6 @@
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Pokemonvue)](https://github.com/gonzalezvictorjuan/PokemonVue)
-`frontend`
 
 
 

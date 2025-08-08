@@ -115,7 +115,7 @@ def awesome_projects(data, context):
         repo_name = project["name"]
         repo_url = f"https://github.com{project['link']}"
         card_url = f"https://github-readme-stats.vercel.app/api/pin/?username={github_user}&repo={repo_name}"
-        projects_data += f'\n[![Readme Card]({card_url})]({repo_url})\n'
+        projects_data += f'[![Readme Card]({card_url})]({repo_url})'
 
     return f"{title}\n{children_output}{projects_data}\n"
 

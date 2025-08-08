@@ -112,10 +112,11 @@ def awesome_projects(data, context):
 
     for i in range(count):
         project = projects[i]
-        repo_name = project["name"].replace(" ", "-")  # Asegura que no haya espacios
+        repo_name = project["name"].replace(" ", "-")
         repo_url = f"https://github.com{project['link']}"
         card_url = f"https://github-readme-stats.vercel.app/api/pin/?username={github_user}&repo={repo_name}"
-        projects_data += f'[![Readme Card]({card_url})]({repo_url})\n'
+        tags = " ".join(f"`{tag}`" for tag in project.get("tags", []))
+        projects_data += f'[![Readme Card]({card_url})]({repo_url})\n{tags}\n'
 
     return f"{title}\n{children_output}{projects_data}\n"
 

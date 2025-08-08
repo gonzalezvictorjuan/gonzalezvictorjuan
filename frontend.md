@@ -19,6 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Pokemonvue)](https://github.com/gonzalezvictorjuan/PokemonVue)
 
 
+
 <br>
 
 <br>

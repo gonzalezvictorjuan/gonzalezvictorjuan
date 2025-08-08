@@ -45,8 +45,7 @@
 <br>
 
 ## Estadísticas de GitHub 📊
-<img src="https://github-readme-stats.vercel.app/api?username=gonzalezvictorjuan&show_icons=true&theme=radical" alt="GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+![gonzalezvictorjuan's Stats](https://github-readme-stats.vercel.app/api?username=gonzalezvictorjuan&theme=dark&show_icons=true&hide_border=true&count_private=true) ![gonzalezvictorjuan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonzalezvictorjuan&theme=dark&hide_border=true) ![gonzalezvictorjuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <div align="center">

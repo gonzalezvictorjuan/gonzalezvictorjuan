@@ -1,7 +1,7 @@
-# Victor Gonzalez - Proyectos por Categoría 🧭
+# Victor Gonzalez - Projects by Category 🧭
 
 
-`El código es como la magia, pero funciona.`<br><em>Soy un desarrollador Web Full Stack orientado a JavaScript. Mi enfoque es técnico y minimalista: construir soluciones claras, eficientes y bien estructuradas. Apasionado por el aprendizaje continuo, la automatización y el diseño funcional.</em>
+`Code is like magic, but it works.`<br><em>Full Stack Web Developer specialized in JavaScript. I focus on creating professional, technical, and minimalist solutions that solve real problems. Always looking to improve, automate, and build.</em>
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 
-## Proyectos por Categoría 📂
+## Projects by Category 📂
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Pokemonvue)](https://github.com/gonzalezvictorjuan/PokemonVue)
@@ -25,14 +25,14 @@
 <br>
 
 <div align="center">
-<h3 align="center">Conectemos 🔗</h3>
+<h3 align="center">Let's connect! 🔗</h3>
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/victor-juan-gonzalez-ab887a15b/" target="blank">
-<img align="center" width="30px" alt="LinkedIn de Victor" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/img/linkedin-icon.svg?raw=true"/></a> &nbsp; &nbsp;
+<img align="center" width="30px" alt="Victor on LinkedIn" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/img/linkedin-icon.svg?raw=true"/></a> &nbsp; &nbsp;
 
 </p>
 
 
-<div align="center"><em><a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/tree/main/ReadmeGenerator">* Este README fue generado automáticamente. Haz clic aquí para ver cómo se hizo</a></em></div>
+<div align="center"><em><a href="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/tree/main/ReadmeGenerator">* This README was generated automatically. Click here to see how it was made</a></em></div>
 

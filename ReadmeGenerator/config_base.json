@@ -7,24 +7,24 @@
         { "name": "Frontend", "emoji": "🧙‍♂️", "tag": "frontend" },
         { "name": "Backend", "emoji": "🤖", "tag": "backend" },
         { "name": "Full Stack JS", "emoji": "🌎", "tag": "fullstack" },
-        { "name": "Educación", "emoji": "🧑🏼‍🏫", "tag": "edu" },
+        { "name": "Education", "emoji": "🧑🏼‍🏫", "tag": "edu" },
         { "name": "Testing", "emoji": "🧪", "tag": "test" }
       ]
     }
   },
   {
     "type": "intro",
-    "data": "Hola, soy Victor Gonzalez 👋"
+    "data": "Hi, I'm Victor Gonzalez 👋"
   },
   {
     "type": "description",
-    "data": "`El código es como la magia, pero funciona.`<br><em>Desarrollador Web Full Stack especializado en JavaScript. Me enfoco en crear soluciones profesionales, técnicas y minimalistas que resuelvan problemas reales. Siempre buscando mejorar, automatizar y construir.</em>"
+    "data": "`Code is like magic, but it works.`<br><em>Full Stack Web Developer specialized in JavaScript. I focus on creating professional, technical, and minimalist solutions that solve real problems. Always looking to improve, automate, and build.</em>"
   },
   {
     "type": "extra",
     "data": {
-      "title": "Actualmente 📍",
-      "data": "📌 Viviendo en Tandil, Buenos Aires, Argentina<br>🎯 Buscando oportunidades freelance y equipos con visión de producto"
+      "title": "Currently 📍",
+      "data": "📌 Living in Tandil, Buenos Aires, Argentina<br>🎯 Looking for freelance opportunities and product-driven teams"
     }
   },
   {
@@ -45,8 +45,8 @@
         "🔧 Git & GitHub",
         "🐧 Linux (WSL / Ubuntu)",
         "🐳 Docker",
-        "🧪 Pruebas (Jest / Vitest / Playwright)",
-        "🚀 CI/CD en GitHub Actions"
+        "🧪 Testing (Jest / Vitest / Playwright)",
+        "🚀 CI/CD on GitHub Actions"
       ],
       "children": [
         {
@@ -62,7 +62,7 @@
   {
     "type": "awesomeProjects",
     "data": {
-      "title": "Proyectos Destacados 🚀",
+      "title": "Featured Projects 🚀",
       "count": 6,
       "showEmojis": true,
       "showScore": false,
@@ -76,17 +76,17 @@
   {
     "type": "extra",
     "data": {
-      "title": "Estadísticas de GitHub 📊",
-      "data": "![gonzalezvictorjuan's Stats](https://github-readme-stats.vercel.app/api?username=gonzalezvictorjuan&theme=dark&show_icons=true&hide_border=true&count_private=true) ![gonzalezvictorjuan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gonzalezvictorjuan&theme=dark&hide_border=true) ![gonzalezvictorjuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezvictorjuan&theme=dark&show_icons=true&hide_border=true&layout=compact)"
+      "title": "GitHub Statistics 📊",
+      "data": "<div align=\"center\">\n![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonzalezvictorjuan&theme=tokyonight)![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gonzalezvictorjuan&theme=tokyonight)![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonzalezvictorjuan&theme=tokyonight)\n</div>"
     }
   },
   {
     "type": "social",
     "data": {
-      "title": "@<div align=\"center\">\n<h3 align=\"center\">¡Conectemos! 🔗</h3>\n</div>",
+      "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect! 🔗</h3>\n</div>",
       "social": [
         {
-          "alt": "Victor en LinkedIn",
+          "alt": "Victor on LinkedIn",
           "url": "https://www.linkedin.com/in/victor-juan-gonzalez-ab887a15b/",
           "image": "https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/blob/main/img/linkedin-icon.svg?raw=true"
         }
@@ -95,6 +95,6 @@
   },
   {
     "type": "extra",
-    "data": "<div align=\"center\"><em><a href=\"https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/tree/main/ReadmeGenerator\">* Este README fue generado automáticamente. Haz clic aquí para ver cómo se hizo</a></em></div>"
+    "data": "<div align=\"center\"><em><a href=\"https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/tree/main/ReadmeGenerator\">* This README was generated automatically. Click here to see how it was made</a></em></div>"
   }
 ]

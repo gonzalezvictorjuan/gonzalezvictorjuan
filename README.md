@@ -45,7 +45,7 @@
 <br>
 
 ## GitHub Statistics 📊
-<div align="center">![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonzalezvictorjuan&theme=tokyonight) ![General stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gonzalezvictorjuan&theme=tokyonight) ![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonzalezvictorjuan&theme=tokyonight)</div>
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonzalezvictorjuan&theme=tokyonight) ![General stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gonzalezvictorjuan&theme=tokyonight) ![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonzalezvictorjuan&theme=tokyonight)
 
 
 <div align="center">

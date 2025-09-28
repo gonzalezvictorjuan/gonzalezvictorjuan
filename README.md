@@ -35,6 +35,7 @@
 
 ## Featured Projects 🚀
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Pokemonvue)](https://github.com/gonzalezvictorjuan/PokemonVue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Fullstack-connection-basics)](https://github.com/gonzalezvictorjuan/fullstack-connection-basics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Backendnestjs)](https://github.com/gonzalezvictorjuan/BackendNestJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Curso-utn-999198241)](https://github.com/gonzalezvictorjuan/Curso-UTN-999198241)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Test-pages-actions)](https://github.com/gonzalezvictorjuan/test-pages-actions)

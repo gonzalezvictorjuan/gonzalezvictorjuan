@@ -16,6 +16,7 @@
 ## Projects by Category 📂
 <div align="right"><img align="right" height="auto" width="200" src="https://github.com/gonzalezvictorjuan/gonzalezvictorjuan/raw/main/img/gengar.png"/></div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Poc-vercel-monorepo)](https://github.com/gonzalezvictorjuan/PoC-Vercel-Monorepo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Mystock-firebase)](https://github.com/gonzalezvictorjuan/MyStock-firebase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Curso-utn-999198248)](https://github.com/gonzalezvictorjuan/Curso-UTN-999198248)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzalezvictorjuan&repo=Skeleton-backend)](https://github.com/gonzalezvictorjuan/Skeleton-Backend)
